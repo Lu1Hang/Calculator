@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"MainClass","h":"","u":""}]

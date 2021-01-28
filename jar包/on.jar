@@ -1,0 +1,7 @@
+@echo off
+SET javaw="%JAVA_HOME%\bin\javaw"
+
+start javaw -jar "Calculator.jar" 
+
+exit
+
